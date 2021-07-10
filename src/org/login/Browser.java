@@ -38,6 +38,7 @@ public class Browser  {
 		
 		a.doubleClick(txtPassword).perform();
 		
+		a.doubleClick(txtPassword).perform();
 		
 		
 	}
